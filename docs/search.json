@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Below are resources I have put together for eco-evolutionary modelling workshops I have run / contributed to. I hope they can be of further interest here.\n\n\n\nMaterial\nDescription\nLink\n\n\n\n\nEco-evolutionary modelling: gen3sis\nAn introductionary tutorial to gen3sis, an eco-evolutionary modelling framework for exploring the mechanisms underlying large-scale biodiversity patterns.\nhttps://github.com/thomaskeggin/gen3sis_sandbox\n\n\nMultilayer network analyses\nA tutorial on how a multilayer network analysis approach can be implemented in spatiotemporal eco-evolutionary studies - both conceptually and methodologically.\nhttps://github.com/melian009/muaux/tree/main/HandsOn/src/Thomas"
+  },
+  {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "Copyright",
+    "section": "",
+    "text": "Copyright\nCopyright © 2026 Thomas Keggin. All rights reserved.\nAll original content, source code, text, images, figures and other materials in this repository and on the associated website are protected by copyright.\nExcept as permitted by law, no part of this work may be reproduced, modified, distributed or republished without prior written permission from the copyright holder.\nThird-party materials remain subject to their respective licences."
+  },
+  {
+    "objectID": "curriculum_vitae.html",
+    "href": "curriculum_vitae.html",
+    "title": "Thomas Keggin",
+    "section": "",
+    "text": "2019 - 2023\nETH Zürich\nSwitzerland\n\n\n\n2015 - 2017\nDurham University\nUnited Kingdom\n\n\n\n2011 - 2014\nDurham University\nUnited Kingdom"
+  },
+  {
+    "objectID": "curriculum_vitae.html#education",
+    "href": "curriculum_vitae.html#education",
+    "title": "Thomas Keggin",
+    "section": "",
+    "text": "2019 - 2023\nETH Zürich\nSwitzerland\n\n\n\n2015 - 2017\nDurham University\nUnited Kingdom\n\n\n\n2011 - 2014\nDurham University\nUnited Kingdom"
+  },
+  {
+    "objectID": "curriculum_vitae.html#experience",
+    "href": "curriculum_vitae.html#experience",
+    "title": "Thomas Keggin",
+    "section": "Experience",
+    "text": "Experience\n\nPostdoctoral Researcher\n2024 - 2026\nEAWAG\nSwitzerland\n\n\nScientific Advisor\n2022 - 2023\nStream Ocean\nSwitzerland\n\n\nResearch Assistant\n2018 - 2019\nDurham University\nUnited Kingdom\n\n\nQuality Assurance Officer\n2018\nAstrea Bioseparations\nIsle of Man\n\n\nFisheries Intern\n2017\nIsle of Man Government\nIsle of Man\n\n\nAgricultural Technician\n2017\nLimagrain\nUnited Kingdom\n\n\nConservation Assistant\n2016\nManx Wildlife Trust\nIsle of Man\n\n\nHealth, Safety, and Environment Field Specialist\n2014 - 2015\nSchlumberger\nKuwait\n\n\nResearch Assistant\n2013\nDurham University\nUnited Kingdom"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "I’m a biologist working to tackle contemporary biodiversity challenges through genetics, ecological observations, eco-evolutionary modelling, and theoretical development. I’m striving for a holistic understanding of biological systems, and spend most of my time being humbled by their complexity.\nMy latest work has been leading a collaboration to advance our methods and understanding of how tropical fishes might respond to climate change by moving, adapting, or going extinct. Check out our preprint here."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Vilcot, M., et al. (2026). A Continuum of Biodiversity: Revealing Marine Tropical Fish Diversity From Intra- to Interspecific Variation Through Environmental DNA. Environmental DNA, 8(3), e70298.\nKeggin, T., et al. (2026). Unexpected global biodiversity responses to climate change arise from complex adaptation, seascape, and dispersal dynamics. (p. 2026.03.03.707980). bioRxiv.\nReji Chacko, M., et al. (2023). Catchment-based sampling of river eDNA integrates terrestrial and aquatic biodiversity of alpine landscapes. Oecologia, 202(4), 699–713.\nKeggin, T. (2023). The emergence of biological diversity through organisational scale. ETH Zurich.\nKeggin, T., Waldock, C., Skeels, A., Hagen, O., Albouy, C., Manel, S., & Pellissier, L. (2023). Diversity across organisational scale emerges through dispersal ability and speciation dynamics in tropical fish. BMC Biology, 21(1), 282.\nSkeels, A., et al. (2023). Paleoenvironments shaped the exchange of terrestrial vertebrates across Wallace’s Line. Science, 381(6653), 86–92.\nPolanco F., et al. (2022). Ecological indices from environmental DNA to contrast coastal reefs under different anthropogenic pressures. Ecology and Evolution, 12(8), e9212.\nStauffer, S., et al. (2021). How many replicates to accurately estimate fish biodiversity using environmental DNA on coral reefs? Ecology and Evolution, 11(21), 14630–14643.\nKeggin, T. (2017).Population genomics of two deep sea sharks: Centroselachus crepidater and Deania calcea. Durham University."
+  }
+]

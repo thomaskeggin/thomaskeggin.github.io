@@ -1,0 +1,11 @@
+---
+title: "Resources"
+format: html
+---
+
+Below are resources I have put together for eco-evolutionary modelling workshops I have run / contributed to. I hope they can be of further interest here.
+
+| Material | Description | Link |
+|---------------------------|-----------------------|-----------------------|
+| Eco-evolutionary modelling: gen3sis | An introductionary tutorial to gen3sis, an eco-evolutionary modelling framework for exploring the mechanisms underlying large-scale biodiversity patterns. | <https://github.com/thomaskeggin/gen3sis_sandbox> |
+| Multilayer network analyses | A tutorial on how a multilayer network analysis approach can be implemented in spatiotemporal eco-evolutionary studies - both conceptually and methodologically. | <https://github.com/melian009/muaux/tree/main/HandsOn/src/Thomas> |

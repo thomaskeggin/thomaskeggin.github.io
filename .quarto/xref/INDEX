@@ -1,0 +1,44 @@
+{
+  "index.qmd": {
+    "index.html": "901ba6ed"
+  },
+  "about.qmd": {
+    "about.html": "ff4b1a18"
+  },
+  "publications.qmd": {
+    "publications.html": "84a52fa7"
+  },
+  "teaching_material.qmd": {
+    "teaching_material.html": "1f634a60"
+  },
+  "resources.qmd": {
+    "resources.html": "e3a41b17"
+  },
+  "dump.md": {
+    "dump.html": "2af7687e"
+  },
+  "research/current.qmd": {
+    "current.html": "2078f30f"
+  },
+  "research/past.qmd": {
+    "past.html": "cb7d4c62"
+  },
+  "research.qmd": {
+    "research.html": "45bef511"
+  },
+  "curriculum_vitae.qmd": {
+    "curriculum_vitae.html": "319a1c2d"
+  },
+  "publications copy.qmd": {
+    "publications copy.html": "9699bd99"
+  },
+  "publications_raw.qmd": {
+    "publications_raw.html": "73c9f67c"
+  },
+  "contact.qmd": {
+    "contact.html": "30ebbc5d"
+  },
+  "LICENSE.md": {
+    "LICENSE.html": "9e1f837f"
+  }
+}

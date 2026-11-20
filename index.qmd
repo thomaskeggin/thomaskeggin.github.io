@@ -1,0 +1,18 @@
+---
+title: Welcome
+bibliography: references.bib
+about:
+  template: jolla
+  image: images/profile.jpg
+  links:
+    - text: Github
+      href: https://github.com/thomaskeggin
+    - text: Orcid
+      href: https://orcid.org/0000-0002-0771-0764
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/thomaskeggin/
+---
+
+I'm a biologist working to tackle contemporary biodiversity challenges through genetics, ecological observations, eco-evolutionary modelling, and theoretical development. I'm striving for a holistic understanding of biological systems, and spend most of my time being humbled by their complexity.
+
+My latest work has been leading a collaboration to advance our methods and understanding of how tropical fishes might respond to climate change by moving, adapting, or going extinct. Check out our [preprint here](https://doi.org/10.64898/2026.03.03.707980 "Unexpected global biodiversity responses to climate change arise from complex adaptation, seascape, and dispersal dynamics").

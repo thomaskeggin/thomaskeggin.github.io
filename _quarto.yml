@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - files/Thomas_Keggin_CV.pdf
+
+website:
+  title: "Thomas Keggin"
+  navbar:
+    right:
+      - href: index.qmd
+        text: "Home"
+      - publications.qmd
+      - resources.qmd
+      - href: curriculum_vitae.qmd
+        text: "CV"
+  page-footer: "© 2026 Thomas Keggin. All rights reserved."
+
+format:
+  html:
+    theme:
+      - minty
+    css: styles.css
+    toc: true
+
+editor: visual

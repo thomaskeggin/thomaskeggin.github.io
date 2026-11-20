@@ -1,0 +1,106 @@
+---
+title: "Thomas Keggin"
+format: html
+about:
+  template: trestles  
+  image-width: 10em
+  image-shape: round
+  image: /images/IMG_9554.jpg
+  links:
+    - text: Github
+      href: https://github.com/thomaskeggin
+    - text: Orcid
+      href: https://orcid.org/0000-0002-0771-0764
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/thomaskeggin/
+    - text: Full CV
+      href: files/Thomas_Keggin_CV.pdf
+---
+
+## Education
+
+### Doctor of Science
+
+2019 - 2023
+
+ETH Zürich\
+Switzerland
+
+### Master of Science (Research)
+
+2015 - 2017
+
+Durham University\
+United Kingdom
+
+### Bachelor of Science in Biology
+
+2011 - 2014
+
+Durham University\
+United Kingdom\
+
+## Experience
+
+### Postdoctoral Researcher
+
+2024 - 2026
+
+EAWAG\
+Switzerland
+
+### Scientific Advisor
+
+2022 - 2023
+
+Stream Ocean\
+Switzerland
+
+### Research Assistant
+
+2018 - 2019
+
+Durham University\
+United Kingdom
+
+### Quality Assurance Officer
+
+2018
+
+Astrea Bioseparations\
+Isle of Man
+
+### Fisheries Intern
+
+2017
+
+Isle of Man Government\
+Isle of Man
+
+### Agricultural Technician
+
+2017
+
+Limagrain\
+United Kingdom
+
+### Conservation Assistant
+
+2016
+
+Manx Wildlife Trust\
+Isle of Man
+
+### Health, Safety, and Environment Field Specialist
+
+2014 - 2015
+
+Schlumberger\
+Kuwait
+
+### Research Assistant
+
+2013
+
+Durham University\
+United Kingdom
