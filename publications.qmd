@@ -11,7 +11,7 @@ Reji Chacko, M., *et al.* (2023). [Catchment-based sampling of river eDNA integr
 
 Keggin, T. (2023). [The emergence of biological diversity through organisational scale.](https://doi.org/10.3929/ethz-b-000620696) ETH Zurich.
 
-Keggin, T., Waldock, C., Skeels, A., Hagen, O., Albouy, C., Manel, S., & Pellissier, L. (2023). [Diversity across organisational scale emerges through dispersal ability and speciation dynamics in tropical fish.](https://doi.org/10.1186/s12915-023-01771-3) BMC Biology, 21(1), 282.
+Keggin, T.,*et al.*  (2023). [Diversity across organisational scale emerges through dispersal ability and speciation dynamics in tropical fish.](https://doi.org/10.1186/s12915-023-01771-3) BMC Biology, 21(1), 282.
 
 Skeels, A., *et al.* (2023). [Paleoenvironments shaped the exchange of terrestrial vertebrates across Wallace’s Line.](https://doi.org/10.1126/science.adf7122) Science, 381(6653), 86–92.
 
@@ -20,3 +20,17 @@ Polanco F., *et al.* (2022). [Ecological indices from environmental DNA to contr
 Stauffer, S., *et al.* (2021). [How many replicates to accurately estimate fish biodiversity using environmental DNA on coral reefs?](https://doi.org/10.1002/ece3.8150) Ecology and Evolution, 11(21), 14630–14643.
 
 Keggin, T. (2017).[Population genomics of two deep sea sharks: *Centroselachus crepidater* and *Deania calcea*.](https://etheses.durham.ac.uk/id/eprint/12350/1/Population_genomics_of_two_deep_sea_sharks.pdf) Durham University.
+
+### Talks
+
+INTECOL
+
+EAWAG/WSL Biodiversity Day
+
+WSL Audit thing
+
+EAWAG Seminar
+
+Canaries workshop
+
+CSIRO workshop

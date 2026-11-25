@@ -1,1 +1,28 @@
 /* css styles */
+/* Rounded content bubble */
+.content-bubble {
+  background-color: #e4f0f3;
+  border: 1px solid #b4d5df;
+  border-radius: 24px;
+  padding: 24px;
+  margin: 24px 0;
+  color: #20566b;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* Centre headings inside the bubble */
+.content-bubble h1,
+.content-bubble h2,
+.content-bubble h3,
+.content-bubble h4 {
+  text-align: center;
+  margin-top: 0;
+  color: #20566b;
+}
+
+/* Images inside the bubble */
+.content-bubble img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+}

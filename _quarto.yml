@@ -10,6 +10,8 @@ website:
     right:
       - href: index.qmd
         text: "Home"
+      - href: projects.qmd
+        text: "Projects"
       - publications.qmd
       - resources.qmd
       - href: curriculum_vitae.qmd
