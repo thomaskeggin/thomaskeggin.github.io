@@ -32,7 +32,7 @@ Keggin, T., *et al.* (2026). [Unexpected global biodiversity responses to climat
 Thomas Keggin\
 Alexander Skeels\
 Oskar Hagen\
-Carlos Melian\
+Carlos Melián\
 Conor Waldock
 
 ### Glossary
@@ -79,7 +79,7 @@ Alexander Skeels\
 Oskar Hagen\
 Camille Albouy\
 Stephanie Manel\
-Loic Pellissier
+Loïc Pellissier
 
 ### Glossary
 
